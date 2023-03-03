@@ -6,6 +6,6 @@ I entered this competition to practice my skill in making a machine learning mod
 
 1. Developed several models of machine learning algorithms such as XGBoost, LGBM, Random Forest, and ElasticNet to predict the final price of each house
 2. Applied a feature engineering with binning feature and reduce the dimension with mean score decrease to get better information on data
-• Use several techniques of encoding such as OneHotEncoder, BinaryEncoder, and OrdinalEncoder
-• Improve the model with RandomizedSearch to tune parameters such as max_depth, learning_rate, n_estimators, subsample, gamma, colsample_bytree, reg_alpha, and reg_lambda 
-• Gaining the best score around 92.8% in XGBoost without overfitting
+3. Use several techniques of encoding such as OneHotEncoder, BinaryEncoder, and OrdinalEncoder
+4. Improve the model with RandomizedSearch to tune parameters such as max_depth, learning_rate, n_estimators, subsample, gamma, colsample_bytree, reg_alpha, and reg_lambda 
+5. Gaining the best score around 92.8% in XGBoost without overfitting
